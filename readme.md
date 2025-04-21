@@ -1,12 +1,10 @@
 # altoidpad
 
-![altoidpad](imgur.com image replace me!)
-
-*A short description of the keyboard/project*
+A macropad built in an altoid tin
 
 * Keyboard Maintainer: [Dani Smith](https://github.com/danini-the-panini)
-* Hardware Supported: *The PCBs, controllers supported*
-* Hardware Availability: *Links to where you can find this hardware*
+* Hardware Supported: Raspberry Pi Pico RP2040
+* Hardware Availability: [PiShop](https://www.pishop.co.za/store/)
 
 Make example for this keyboard (after setting up your build environment):
 
